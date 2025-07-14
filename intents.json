@@ -1,0 +1,7 @@
+{
+  "intents": [
+    {"tag": "greeting", "patterns": ["Hi", "Hello", "Hey"], "responses": ["Hello!", "Hi there!"]},
+    {"tag": "weather", "patterns": ["What's the weather in Paris?", "Weather in London"], "responses": ["Let me check the weather for you."]},
+    {"tag": "goodbye", "patterns": ["Bye", "Goodbye"], "responses": ["Goodbye!", "See you!"]}
+  ]
+}
